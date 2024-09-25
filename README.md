@@ -1,1 +1,1 @@
-# word-frequency-counter
+Word Frequency Counter Activity
